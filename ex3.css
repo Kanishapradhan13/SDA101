@@ -1,0 +1,22 @@
+body{
+    font-family: cursive;
+    background-color: burlywood;
+    text-align: center;
+}
+
+p{
+    font-size: 40px;
+    color: crimson;
+}
+
+.image{
+    border-radius: 10px;
+}
+
+.first{
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 100px;
+    padding: 10px;
+}
+
